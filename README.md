@@ -8,7 +8,7 @@ This is a Website for Adopting dogs. The user leaves their contacts and the dog 
 ******
 
 ## SCREENSHOTS
-!(Screenshot from 2024-04-10 21-46-17.png)
+!([Screenshot from 2024-04-10 21-46-17.png)](https://github.com/dorcasjuanitah/Dog-Adoption-phase1-project/blob/main/Images/Screenshot%20from%202024-04-10%2021-46-17.png)
 
 
 
