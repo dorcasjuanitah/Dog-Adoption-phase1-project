@@ -1,0 +1,28 @@
+{
+    "dog": [
+      {
+        "id": 1,
+        "breed": "Golden Retriever",
+        "image": "https://www.thesprucepets.com/thmb/3YILtcWgGERlETeFLmPcakp9W-8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/golden_retriever_water-178132375-2000-63b0c6c912a74e13bf0243b8d82aad6d.jpg",
+        "age": 3
+      },
+      {
+        "id": 2,
+        "breed": "Beagle",
+        "image": "https://www.thesprucepets.com/thmb/VFQ5GtSTZF-TDCvRrhK5SSzt04Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134634040-f5a6adee31ac434fae33d2c2ad91fa4c.jpg",
+        "age": 2
+      },
+      {
+        "id": 3,
+        "breed": "Greyhound",
+        "image": "https://www.thesprucepets.com/thmb/nkXzfSm3U6w6qP5ATdlCAQAiMSQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/greyhound1-3eb6a9a20be144f1a4480a0819d6c742.jpg",
+        "age": 4
+      },
+      {
+        "id": 3,
+        "breed": "Bulldog",
+        "image": "https://www.thesprucepets.com/thmb/fyQwV26fqnkUQPtAVEyingShSco=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/english-dog-breeds-4788340-01-c433879722244b0d8460c3bbe3f74a52.jpg",
+        "age": 4
+      }
+    ]
+  }

@@ -1,0 +1,28 @@
+{
+  "users":[
+    {
+      "id": "f3aa",
+      "name": "Dorcas Chepkirui",
+      "email": "dorcaschepkirui22@gmail.com",
+      "dog": "goldenRetriever"
+    },
+    {
+      "id": "6d58",
+      "name": "Emarika",
+      "email": "imarikaproperties@gmail.com",
+      "dog": "greyhound"
+    },
+    {
+      "id": "b27a",
+      "name": "Dorcas Chepkirui",
+      "email": "dorcasjuanitah@gmail.com",
+      "dog": "goldenRetriever"
+    },
+    {
+      "id": "3676",
+      "name": "Dorcas Chepkirui",
+      "email": "info@imarikaproperties.com",
+      "dog": "goldenRetriever"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dog Adoption</title>
+<link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <h1> DOG ADOPTION SYSTEM</h1>
+
+<nav class="nav-bar">
+      <div id="navbar">
+        <ul>
+          <li><a href="#">HOME</a></li>
+          <li> <a href="#">DONATE</a></li>
+          <li> <a href="#">DOGS</a></li>
+          <li><a href="#">ABOUT US</a></li>
+        
+        </ul>
+  </nav>
+
+<div class="container">
+  <h1>Adopt a Dog</h1>
+  <form id="adoptionForm">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <label for="dogSelect">Select a dog:</label>
+    <select id="dogSelect" name="dog">
+      <option value="goldenRetriever">Golden Retriever</option>
+      <option value="beagle">Beagle</option>
+      <option value="poodle">Poodle</option>
+      <option value="bulldog">BullDog</option>
+      <option value="greyhound">Grey Hound</option>
+    </select>
+    <button type="submit">Adopt</button>
+  </form>
+  <div id="message"></div>
+  <h2>List of Dogs</h2>
+  <div id="dogList" class="dog-list">
+
+    <!-- Dog images will be directly added here -->
+    <div class="dog-item">
+      <img width ="400px" height="400px"  src="https://www.thesprucepets.com/thmb/TqOSTbtEHBPlYF4kBI86KG-O-HI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-128104553-2000-37874344013147e79bfb150be50c56cc.jpg" alt="Golden Retriever">
+      <p>Golden Retriever</p>
+      <p>Age: 3</p>
+    </div>
+    <div class="dog-item">
+      <img width ="400px" height="400px" src="https://www.thesprucepets.com/thmb/AjHYTD7afmpNBYLnq_0ozCeQo-E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/english-dog-breeds-4788340-05-0d0bd12c1cdf414084a807f86dfd993d.jpg">
+      <p>German Shepherd</p>
+      <p>Age: 2</p>
+    </div>
+    <div class="dog-item">
+      <img width="400" height="400px" src="https://www.thesprucepets.com/thmb/MQBXmnNRqeY9zcuXKCGHJfja_-w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/english-dog-breeds-4788340-03-76f7e03ec71f49f0a03537a5b5489eac.jpg" alt="Poodle">
+      <p>Poodle</p>
+      <p>Age: 4</p>
+    </div>
+    <!-- Add more dog images as needed -->
+  </div>
+</div>
+
+<script src="./index.js"></script>
+<script src="./user.json"></script>
+</body>
+</html>
